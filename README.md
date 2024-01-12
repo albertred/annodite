@@ -1,2 +1,2 @@
 # annodite
-A better solution than weava
+A much better solution than weava
